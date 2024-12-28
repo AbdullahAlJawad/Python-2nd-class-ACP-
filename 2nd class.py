@@ -1,0 +1,5 @@
+first_birthday = input("Enter your birthday: ")
+Second_birthday = input("Enter your birthday: ")
+Third_birthday = input("Enter your birthday: ")
+Fourth_birthday = input("Enter your birthday: ")
+fifth_birthday = input("Enter your birthday: ")
